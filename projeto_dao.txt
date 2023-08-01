@@ -1,0 +1,8 @@
+Nome Dao: SaoDao
+
+Missão: Reunir pessoas que tem interesse em procurar e adquirir ativos raros do São Paulo Futebol Clube	digitalizalos em Nft
+
+Entrega: criar um museu digital com os itens e disponibiliza-los em um local aonde os donos dos nfts possam assistir finais e comemorar possiveis titulos do São Paulo este local exibira os nfts e o seus respectivos donos, e terá a cara do São Paulo Futebol Clube!
+
+Mecanismo de financiamento: encontrar artistas que disponibilizem a sua arte para criarmos nfts e gerarmos as vendas iniciais e lançar o token  que servira para comprar dos nfts artisticos de lançamento da DaoSao!
+
